@@ -1,28 +1,17 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*stripe-billing app
 
-Things you may want to cover:
+#Want to Contribute -:
 
-* Ruby version
+*install ruby and other related stuff and just do what you want to do.
+*we are open source from first day and will always be.
 
-* System dependencies
+#Issues
 
-* Configuration
+To check issues reported and improvements stuff [Click Here](http://www.github.com/sultania23/stripe-billing/issues)
 
-* Database creation
+#Contributors
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+[1 . Pawan Yadav Sultania] (http://www.github.com/sultania23)
+[2 . Rahul Yadav] (http://www.github.com/rahulyadav20111995)
