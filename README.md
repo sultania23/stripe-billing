@@ -1,6 +1,6 @@
-== README
+#README
 
-*stripe-billing app
+-stripe-billing app
 
 #Want to Contribute -:
 
@@ -11,7 +11,9 @@
 
 To check issues reported and improvements stuff [Click Here](http://www.github.com/sultania23/stripe-billing/issues)
 
+
 #Contributors
 
 [1 . Pawan Yadav Sultania] (http://www.github.com/sultania23)
+
 [2 . Rahul Yadav] (http://www.github.com/rahulyadav20111995)
